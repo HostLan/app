@@ -1,1 +1,1 @@
-http://yayin.damarfm.com:8000
+http://149.202.87.12:8000
