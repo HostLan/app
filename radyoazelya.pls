@@ -1,1 +1,1 @@
-http://yayin.damarfm.com:8080/mp3
+http://radyoazelya.radyotvyayini.com:9052/
