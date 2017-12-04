@@ -1,1 +1,1 @@
-http://radyoazelya.radyotvyayini.com:9052/listen.pls
+http://radyoazelya.radyotvyayini.com:9052/
