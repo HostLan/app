@@ -1,1 +1,1 @@
-http://radyoazelya.radyotvyayini.com:9054
+http://radyoazelya.radyotvyayini.com:9052
