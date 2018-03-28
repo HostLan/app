@@ -1,1 +1,1 @@
-http://radyoazelya.radyotvyayini.com:9052/
+http://yayin.yayindakiler.com:3012
