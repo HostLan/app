@@ -1,1 +1,1 @@
-http://radyo.hostlan.net:8000/mp3
+http://yayin.radyodem.com:8000/mp3
