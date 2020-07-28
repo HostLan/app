@@ -1,1 +1,1 @@
-http://radyo.hostlan.net:8026
+http://ev.hostlan.net:8026
