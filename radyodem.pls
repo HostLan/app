@@ -1,1 +1,1 @@
-https://yayin.radyodem.com:8000/stream
+http://yayin.radyodem.com:8000/stream
