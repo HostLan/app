@@ -1,0 +1,18 @@
+<meta charset="UTF-8">
+<link href="https://radyo.yayinda.net:1120/media/static/css/widget-status.css" rel="stylesheet">
+
+
+
+<script>
+if (typeof jQuery == 'undefined') { 
+  var i = "i";
+  document.write('<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></scr' + i + 'pt>');
+}
+</script>
+<script type="text/javascript" src="https://yandex.st/jquery/tmpl/1.0.0pre/jquery.tmpl.min.js"></script>
+<script type="text/javascript" src="https://radyo.yayinda.net:1120/media/static/js/external/status-widget.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){new StatusWidget({"djImage":false,"djName":false,"listenersNum":false,"trackCurrent":true,"history":false,"widgetWidth":600}, 1, "https://radyo.yayinda.net:1120", "#RTWidgetStatus", "en");});
+</script>
+
+<div id="RTWidgetStatus"></div>
