@@ -1,5 +1,5 @@
 {
-    "serverURL": "http://live.jazzfm.net:8004/7.html",
+    "serverURL": "https://live.jazzfm.net/cp/get_info.php?p=8004",
     "streamURL": "http://live.jazzfm.net:8004/stream",
     "fetchingIntervalSeconds": 15,
     "title": "Jazz Fm",
