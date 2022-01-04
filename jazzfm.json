@@ -1,0 +1,30 @@
+{
+    "serverURL": "http://live.jazzfm.net:8004/currentsong?sid=1",
+    "streamURL": "http://live.jazzfm.net:8004/stream",
+    "fetchingIntervalSeconds": 15,
+    "title": "Jazz Fm",
+    "description": "Listen Best Jazz",
+    "share": [
+        {
+            "name": "Sito web",
+            "url": "http://radiouci.it",
+            "image": "LogoRadioUCI"
+        },{
+            "name": "Facebook",
+            "url": "https://www.facebook.com/radiouciweb/",
+            "image": "facebook"
+        },{
+            "name": "Whatsapp",
+            "url": "https://api.whatsapp.com/send?phone=393335483725&text=Salve%2C%20sono%20un%20vostro%20radio%20ascoltatore.%20Vorrei%20dirvi%20che",
+            "image": "whatsapp"
+        },{
+            "name": "Instagram",
+            "url": "https://instagram.com/radiouci",
+            "image": "instagram"
+        }, {
+            "name": "Informazioni sviluppatore",
+            "url": "https://annino.dev",
+            "image": "developer"
+        }
+    ]
+}
