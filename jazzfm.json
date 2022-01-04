@@ -1,5 +1,5 @@
 {
-    "serverURL": "http://live.jazzfm.net:8004/statistics",
+    "serverURL": "http://live.jazzfm.net:8004/statistics?json=1",
     "streamURL": "http://live.jazzfm.net:8004/stream",
     "fetchingIntervalSeconds": 15,
     "title": "Jazz Fm",
