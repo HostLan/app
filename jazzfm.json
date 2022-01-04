@@ -1,5 +1,5 @@
 {
-    "serverURL": "http://live.jazzfm.net:8004/stats",
+    "serverURL": "http://nrf1.newradio.it:19902/status-json.xsl",
     "streamURL": "http://live.jazzfm.net:8004/stream",
     "fetchingIntervalSeconds": 15,
     "title": "Jazz Fm",
