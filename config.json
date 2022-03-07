@@ -1,7 +1,7 @@
 {
   "radio": [
     {
-      "radio_name": "Dem Bu Dem",
+      "radio_name": "Radyo Dem",
       "radio_genre": "Türkü",
       "radio_url": "http://yayin.radyodem.com:8000/;stream",
       "radio_image_url": "https://github.com/HostLan/app/raw/master/radyodem.png",
@@ -18,7 +18,7 @@
   ],
   "ads": [
     {
-      "ad_status": "off",
+      "ad_status": "on",
       "ad_type": "admob",
       "admob_publisher_id": "pub-1529638975606535",
       "admob_banner_unit_id": "ca-app-pub-1529638975606535/8585162689",
