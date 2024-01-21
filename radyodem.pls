@@ -1,1 +1,1 @@
-https://yayin.radyodem.com/dem/stream
+https://yayin.radyodem.com/radyodem/stream
