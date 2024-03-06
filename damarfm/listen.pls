@@ -1,1 +1,1 @@
-https://yayin.damarfm.com/dinle/stream
+https://play.adtonos.com/damar
