@@ -1,1 +1,1 @@
-https://play.adtonos.com/damar
+http://yayin.damarfm.com:8080
