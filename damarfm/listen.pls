@@ -1,1 +1,1 @@
-http://yayin.damarfm.com:8080
+https://streaming.shoutcast.com/damarfm
