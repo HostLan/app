@@ -1,1 +1,1 @@
-http://master.shoutcast.com/damarfm
+http://streaming.shoutcast.com/damarfm
