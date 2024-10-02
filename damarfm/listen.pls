@@ -1,1 +1,1 @@
-http://185.171.67.63/damarfm
+http://master.shoutcast.com/damarfm
