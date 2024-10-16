@@ -1,1 +1,1 @@
-http://185.171.67.61/damarfm
+http://sc-slave-geo.trafficmanager.net/damarfm
