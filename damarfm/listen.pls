@@ -1,6 +1,6 @@
 [playlist]
 
-File1=http://185.171.67.63/damarfm
+File1=http://185.171.67.61/damarfm
 
 File2=http://185.171.67.62/damarfm
 
