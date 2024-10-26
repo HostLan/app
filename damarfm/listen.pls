@@ -1,10 +1,6 @@
 [playlist]
 
-File1=http://185.171.67.61/damarfm
+File1=http://yayin.damarfm.com:8080
 
-File2=http://185.171.67.62/damarfm
-
-File3=http://streaming.shoutcast.com/damarfm
-
-NumberOfEntries=3
+NumberOfEntries=1
 Version=2
