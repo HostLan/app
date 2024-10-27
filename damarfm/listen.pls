@@ -1,6 +1,6 @@
 [playlist]
 
-File1=http://yayin.damarfm.com:8080
+File1=http://yayin.damarfm.com
 
 NumberOfEntries=1
 Version=2
