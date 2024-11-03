@@ -1,6 +1,6 @@
 [playlist]
 
-File1=http://185.171.67.62/damarfm
+File1=http://sc-slave-geo.trafficmanager.net/damarfm
 
 NumberOfEntries=1
 Version=2
