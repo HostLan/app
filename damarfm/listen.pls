@@ -1,6 +1,6 @@
 [playlist]
 
-File1=https://yayin.damarfm.com/dinle/damarfm
+File1=http://sc-slave-geo.trafficmanager.net/damarfm
 
 NumberOfEntries=1
 Version=2
