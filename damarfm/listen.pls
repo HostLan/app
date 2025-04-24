@@ -1,6 +1,6 @@
 [playlist]
 
-File1=https://yayin.damarfm.com/stream
+File1=https://yayin.damarfm.com/dinle/;
 
 NumberOfEntries=1
 Version=2
