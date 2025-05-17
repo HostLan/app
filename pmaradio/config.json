@@ -3,9 +3,9 @@
     {
       "radio_name": "PMA Radio",
       "radio_genre": "Studio Bremerhaven",
-      "radio_url": "http://stream.radiohosting.net:8008/;",
-      "radio_image_url": "https://github.com/HostLan/app/blob/master/pmaradio/pma.jpg",
-      "background_image_url": "https://i.ibb.co/XXNDXj7/radio-background.jpg",
+      "radio_url": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/pmaradio/listen.pls",
+      "radio_image_url": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/pmaradio/pma.jpg",
+      "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
       "blur_radio_background": "true",
       "song_metadata": "true",
       "image_album_art": "true",
@@ -16,28 +16,28 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
-      "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "privacy_policy_url": "https://sites.google.com/view/hostlan-net/",
+      "more_apps_url": "https://play.google.com/store/apps/dev?id=6889906794745563173",
       "redirect_url": ""
     }
   ],
   "ads": [
     {
-      "ad_status": "1",
+      "ad_status": "0",
       "ad_type": "admob",
       "backup_ads": "none",
       "admob_publisher_id": "pub-3940256099942544",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_native_unit_id": "YOUR_PLACEMENT_ID",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
@@ -56,23 +56,23 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://i.ibb.co/mtBqztD/globe.png",
-      "social_url": "https://www.solodroid.net"
+      "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/website.png",
+      "social_url": "http://www.pma-radio.de"
     },
     {
       "social_name": "Facebook",
-      "social_icon": "https://i.ibb.co/hfjH7LL/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
+      "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/facebook.png",
+      "social_url": "https://facebook.com/pmaradiobremerhaven?target=custom-tabs"
     },
     {
       "social_name": "Twitter",
-      "social_icon": "https://i.ibb.co/dDZYx1P/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
+      "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/twitter.png",
+      "social_url": "https://twitter.com/pmaradiobremerhaven?target=custom-tabs"
     },
     {
       "social_name": "Instagram",
-      "social_icon": "https://i.ibb.co/82ykbnp/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
+      "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/instagram.png",
+      "social_url": "https://instagram.com/pmaradiobremerhaven?target=custom-tabs"
     }
   ]
 }
