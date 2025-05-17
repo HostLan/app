@@ -67,12 +67,12 @@
     {
       "social_name": "Twitter",
       "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/twitter.png",
-      "social_url": "https://twitter.com/pmaradiobremerhaven?target=custom-tabs"
+      "social_url": "https://twitter.com/jazzfm_net?target=custom-tabs"
     },
     {
       "social_name": "Instagram",
       "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/instagram.png",
-      "social_url": "https://instagram.com/pmaradiobremerhaven?target=custom-tabs"
+      "social_url": "https://instagram.com/jazzfm_net?target=custom-tabs"
     }
   ]
 }
