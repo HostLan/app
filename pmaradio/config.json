@@ -1,9 +1,9 @@
 {
   "radio": [
     {
-      "radio_name": "Pma Radio",
-      "radio_genre": "PMA Radio Studio Bremerhaven",
-      "radio_url": "http://stream.radiohosting.net:8080/;",
+      "radio_name": "PMA Radio",
+      "radio_genre": "Studio Bremerhaven",
+      "radio_url": "http://stream.radiohosting.net:8008/;",
       "radio_image_url": "https://github.com/HostLan/app/blob/master/radiobenz/benz.png?raw=true",
       "background_image_url": "https://i.ibb.co/XXNDXj7/radio-background.jpg",
       "blur_radio_background": "true",
