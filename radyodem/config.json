@@ -57,22 +57,22 @@
     {
       "social_name": "Website",
       "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/website.png",
-      "social_url": "http://www.pma-radio.de"
+      "social_url": "http://www.radyodem.com"
     },
     {
       "social_name": "Facebook",
       "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/facebook.png",
-      "social_url": "https://facebook.com/pmaradiobremerhaven?target=custom-tabs"
+      "social_url": "https://facebook.com/radyodem?target=custom-tabs"
     },
     {
       "social_name": "Twitter",
       "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/twitter.png",
-      "social_url": "https://twitter.com/pmaradiobremerhaven?target=custom-tabs"
+      "social_url": "https://twitter.com/radyo_dem?target=custom-tabs"
     },
     {
       "social_name": "Instagram",
       "social_icon": "https://raw.githubusercontent.com/HostLan/app/refs/heads/master/social/instagram.png",
-      "social_url": "https://instagram.com/pmaradiobremerhaven?target=custom-tabs"
+      "social_url": "https://instagram.com/radyo_dem?target=custom-tabs"
     }
   ]
 }
