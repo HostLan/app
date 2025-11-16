@@ -1,1 +1,59 @@
-
+{
+  "radio": [
+    {
+      "radio_name": "Damar FM",
+      "radio_genre": "Arabesk",
+      "radio_url": "https://yayin.radyodem.com:8080/;stream",
+      "radio_image_url": "https://github.com/HostLan/app/raw/master/radyodem.png",
+      "background_image_url": "https://i.pinimg.com/736x/88/08/5f/88085f2909a6719c96f534a534e87b9d.jpg"
+    }
+  ],
+  "settings": [
+    {
+      "onesignal_app_id": "b8ffd2df-1349-4469-b554-4592bd758088",
+      "fcm_notification_topic": "your_single_radio_topic",
+      "privacy_policy_url": "https://www.hostlan.net/privacy_policy.html",
+      "more_apps_url": "https://play.google.com/store/apps/dev?id=6889906794745563173"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "on",
+      "ad_type": "admob",
+      "admob_publisher_id": "pub-1529638975606535",
+      "admob_banner_unit_id": "ca-app-pub-1529638975606535/8585162689",
+      "admob_interstitial_unit_id": "ca-app-pub-1529638975606535/8402874444",
+      "admob_native_unit_id": "ca-app-pub-1529638975606535/9346174302",
+      "admob_app_open_unit_id": "ca-app-pub-1529638975606535/5159517286",
+      "startapp_app_id": 0,
+      "unity_game_id": 4089993,
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "interstitial_ad_interval": 2
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "Website",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
+      "social_url": "https://www.radyodem.com"
+    },
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61045.png",
+      "social_url": "https://www.facebook.com/radyodem"
+    },
+    {
+      "social_name": "Twitter",
+      "social_icon": "https://image.flaticon.com/icons/png/512/60/60580.png",
+      "social_url": "https://twitter.com/radyo_dem"
+    },
+    {
+      "social_name": "Instagram",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61164.png",
+      "social_url": "https://www.instagram.com/radyo_dem"
+    }
+  ]
+}
