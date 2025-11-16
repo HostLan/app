@@ -1,1 +1,1 @@
-http://stream.radiohosting.net:8080/;stream
+http://stream.radiohosting.net:8008/;stream
