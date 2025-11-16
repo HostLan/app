@@ -1,1 +1,1 @@
-https://yayin.damarfm.com/dinle/stream
+https://yayin.damarfm.com:8080/;stream
