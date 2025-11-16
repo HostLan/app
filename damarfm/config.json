@@ -1,7 +1,7 @@
 {
   "radio": [
     {
-      "radio_name": "Damar",
+      "radio_name": "Damar FM",
       "radio_genre": "Arabesk",
       "radio_url": "http://57.129.16.59:8080/listen.pls",
       "radio_image_url": "https://github.com/HostLan/app/raw/master/radyodem.png",
