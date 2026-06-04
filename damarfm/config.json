@@ -6,6 +6,7 @@
   "SHOW_RECORDING_FEATURE": false,
   "SHOW_SLEEP_TIMER_FEATURE": true,
   "SHOW_SHARE_FEATURE": true,
+  "SHOW_ADS": false,
   "SHOW_ABOUT_US_FEATURE": true,
   "SHARE_MESSAGE": "Damar Fm Dinliyorum",
   "SHARE_URL": "https://yayin.damarfm.com/dinle/stream",
