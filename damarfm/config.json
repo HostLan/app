@@ -6,7 +6,7 @@
   "SHOW_RECORDING_FEATURE": false,
   "SHOW_SLEEP_TIMER_FEATURE": true,
   "SHOW_SHARE_FEATURE": true,
-  "SHOW_ADS": false,
+  "SHOW_ADS": true,
   "REMOTE_BACKGROUND_IMAGE_URL": "https://siteniz.com/arkaplan.jpg",
   "BACKGROUND_GRADIENT_COLORS": ["#F8F2E7", "#F3EBDD", "#E8D9C5"],
   "BUTTON_COLOR": "#FF5733",
