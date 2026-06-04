@@ -1,0 +1,21 @@
+{
+  "STATION_TITLE": "DAMAR FM",
+  "STATION_STREAM_URL": "https://raw.githubusercontent.com/HostLan/app/master/damarfm/listen.pls",
+  "STATION_DESC": "Arabesk Müzik",
+  "SHOW_BACKGROUND_IMAGE": true,
+  "SHOW_RECORDING_FEATURE": false,
+  "SHOW_SLEEP_TIMER_FEATURE": true,
+  "SHOW_SHARE_FEATURE": true,
+  "SHOW_ABOUT_US_FEATURE": true,
+  "SHARE_MESSAGE": "Damar Fm Dinliyorum",
+  "SHARE_URL": "https://yayin.damarfm.com/dinle/stream",
+  "STATION_WEBSITE": "https://www.damarfm.com",
+  "STATION_EMAIL": "info@damarfm.com",
+  "YOUTUBE_USERNAME": "damarfmde",
+  "FACEBOOK_PROFILE_ID": "235264000885",
+  "INSTAGRAM_USERNAME": "damarfm",
+  "TWITTER_USERNAME": "damarfm",
+  "WHATSAPP_NUMBER": "+49 176 204 811 61",
+  "ABOUT_US_TEXT": "Damar Fm 2002 yılında kuruldu...",
+  "SLEEP_MINUTES": [1, 5, 10, 15, 20, 30, 45, 60, 90, 120]
+}
