@@ -9,7 +9,7 @@
   "SHOW_ADS": false,
   "REMOTE_BACKGROUND_IMAGE_URL": "https://siteniz.com/arkaplan.jpg",
   "BACKGROUND_GRADIENT_COLORS": ["#F8F2E7", "#F3EBDD", "#E8D9C5"],
-  "BUTTON_COLOR": "#eeeeee",
+  "BUTTON_COLOR": "#FF5733",
   "SHOW_BACKGROUND_IMAGE": true,
   "SHOW_ABOUT_US_FEATURE": true,
   "SHARE_MESSAGE": "Damar Fm Dinliyorum",
