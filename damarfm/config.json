@@ -11,6 +11,8 @@
   "BUTTON_COLOR": "#FF5733",
   "REMOTE_BACKGROUND_IMAGE_URL": "",
   "SHOW_BACKGROUND_IMAGE": false,
+  "STATION_TITLE_FONT": "Audiowide",
+  "TRACK_TITLE_FONT": "Montserrat",
   "SHOW_ABOUT_US_FEATURE": true,
   "SHARE_MESSAGE": "Damar Fm Dinliyorum",
   "SHARE_URL": "https://yayin.damarfm.com/dinle/stream",
