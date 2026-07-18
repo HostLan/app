@@ -1,1 +1,1 @@
-https://yayin.damarfm.com/stream.opus
+https://yayin.damarfm.com/stream
