@@ -1,1 +1,24 @@
+{
+  "country": "Kurdi",
+  "stations": [
+    {
+      "name": "Radio Kurdi",
+      "homepage": "https://www.radiokurdi.com",
+      "language": "Kurdi",
+      "url": "https://live.radiokurdi.com/stream"
+    },
+    {
+      "name": "Radio Kurdi Pop",
+      "homepage": "https://www.radiokurdi.com/",
+      "url": "https://live.radiokurdi.com/pop",
+      "language": "Kurdi"
+    },
+    {
+      "name": "Radio Kurdi Arabesk",
+      "homepage": "https://www.radiokurdi.com/",
+      "url": "https://live.radiokurdi.com/erebesk",
+      "language": "Kurdi"
+    }
+  ]
+}
 
